@@ -1,0 +1,5 @@
+{
+    "auctions_tab":".menuauctiontabl",
+    "bidnow_button":".bdnow",
+    "submit":".btn-block[value=Login]"
+}
